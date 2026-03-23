@@ -1,4 +1,4 @@
 # college-demo
 This is my first repository
 <br>
-Author-Avinash Kamble
+Author-Avinash (Kanthali)
